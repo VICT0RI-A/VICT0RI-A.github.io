@@ -1,15 +1,14 @@
 ---
 layout: post
 title: Literature review on using Deel Learning to identify misinformation on social media
-subtitle: Unit
+subtitle: Unit 2
 categories: Literature Review
 tags: [literature, review]
 ---
 
-## Literature review
 My next assignment was to write a literature review on one of the topics of choice. I chose the topic of usage of Deep Learning for misinformation detection on social media.
 
-## Literature review: Deep Learning for identifying misinformation on social media. 
+## Literature review: Deep Learning tool to detect misinformation on social media. 
 
 The literature review is about evolving technologies used to identify misinformation on social media platforms. There are different ways to identify false information, and the terms are constantly evolving. Islam  (Islam et al., 2020) elaborated that “there are numerous terms related to misinformation including fake news, rumours, spam, and disinformation”. While different kind of fake news can lead to dangerous outcomes, I think it is important to look at the intention behind. Nipa Akter (Akter et al., 2025) classifies following terms based on intention: satire/parody, rumours, conspiracy theories, scams and hoaxes, clickbait, misinformation and disinformation, stating that the later has malicious intentions. In all the papers I have read on the topic, authors agree on the urgent need to identify false information and hopefully prevent it from spreading. (Akter et al., 2025) in their paper specifically go beyond past and look at the forecasting the effect of misinformation. The reason for this consensus among researchers in the field is that fact that the speed with which fake news tends to spread is very fast and the consequences are dire and can cause harm to the humanity. The example I can never get over is the hate amplified by Facebook against Rohingya Muslims which led to violence in Myanmar (Wiessmann, 2024). The problem with misinformation is that it is difficult to distinguish and users of social media platforms tend to trust it and spread it (Akter et al., 2025). Example with Rohingya is just one of thousand instances I can think of. Among others the common case in India when the news is spread using WhatsApp with fake pictures of culprits and that leads to violence. 
 Along with methods used to identify misinformation on social media evolve the attacks of culprits. Lately such phenomena as using like deep fakes and multimodality made the complex task even more challenging (Akter et al., 2025).  The variety of modalities adds to the task complexity along with the speed of change. 
