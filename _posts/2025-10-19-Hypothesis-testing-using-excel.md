@@ -19,3 +19,4 @@ Last time I executed T test I used SPSS so I was pleasantly surprised how easy i
 [Download Exe 8.2B.xlsx](/assets/Exe%208.2B.xlsx)
 [Download Exe 8.3D.xlsx](/assets/Exe%208.3D.xlsx)
 [Download Exe 8.4G.xlsx](/assets/Exe%208.4G.xlsx)
+[Download Exe 8.6C.xlsx](/assets/Exe%208.6C.xlsx)
