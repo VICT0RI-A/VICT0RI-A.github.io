@@ -11,6 +11,6 @@ Last time I executed T test I used SPSS so I was pleasantly surprised how easy i
 
 ## Hypothesis testing using excel 
 
-[Download Independent T-Test Example](../assets/Independent_T_testExa%207.6B.xlsx)
+[Download Independent T-Test Example](/assets/Independent_T_testExa%207.6B.xlsx)
 
-[Download Related Samples T-Test Example](../assets/The%20Related%20Samples%20T%20Test%20Exa%207.4F.xlsx)
+[Download Related Samples T-Test Example](/assets/The%20Related%20Samples%20T%20Test%20Exa%207.4F.xlsx)
