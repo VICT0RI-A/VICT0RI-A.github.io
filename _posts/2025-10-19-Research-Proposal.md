@@ -10,6 +10,6 @@ tags: [Research, proposal]
 
 Attached are the slides I used for the video presentation of my research proposal
 
-
+![research_proposal](/assets/js/misinformation detection on social media platforms_06.10.2025.pptx)
 
 ![datacamp certification](/assets/images/banners/datacamp_certificate_dummy.jpg)
